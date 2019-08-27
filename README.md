@@ -10,5 +10,4 @@ python -m pip install pyreadline colorama requests
 ```
 
 ### Features
-
-TODO: List all features
+- Color printing

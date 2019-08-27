@@ -55,7 +55,6 @@ class Main(cmd.WildcatCmd):
 
         #utilities
         self.ENCODE = encode.Coding()
-        self.PORTS = data.Ports(port_file=self.DATA_PATH + "/ports")
 
     def preloop(self):
         """Run before main loop, used for printing banner"""
@@ -193,3 +192,4 @@ class Main(cmd.WildcatCmd):
         self.PRINT.newline()
         sys.exit()
 
+    # Add your commands here

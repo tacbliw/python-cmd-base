@@ -18,4 +18,4 @@ python3 wc.py
 
 Have fun :>
 
-[sample.jpeg](./sample.jpeg)
+![](./sample.jpeg)

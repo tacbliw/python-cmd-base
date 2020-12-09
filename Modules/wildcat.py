@@ -63,7 +63,7 @@ class Main(cmd.WildcatCmd):
                     "/  \    /  \\"+ color.colorize("__|", color.RED)    + "  |    __| _/\_   ___ \_____"   + color.colorize(" ___| |___", color.YELLOW),
                     "\   \/\/   /" + color.colorize("  |", color.YELLOW) + "  |   / __ | /    \  \/\__  \\" + color.colorize("\\_",color.YELLOW) + color.colorize(" _|_ ", color.RED) + color.colorize("__|", color.YELLOW),
                     " \        /"  + color.colorize("|  |",color.YELLOW) + "  |__/ /_/ | \     \____/ __ \ "+ color.colorize("|", color.YELLOW)  + color.colorize(" | ", color.RED)   + color.colorize("|  ", color.YELLOW),
-                    "  \__/\  / "  + color.colorize("|__|",color.YELLOW) + "____/\____ |  \______  (____ / "+ color.colorize("|", color.YELLOW)  + color.colorize(" | ", color.RED)   + color.colorize("|  ", color.YELLOW),
+                    "  \__/\  / "  + color.colorize("|__|",color.YELLOW) + "____/\____ |  \_______ (____ / "+ color.colorize("|", color.YELLOW)  + color.colorize(" | ", color.RED)   + color.colorize("|  ", color.YELLOW),
                     "       \/        \/     \/     \/             " + color.colorize("|", color.YELLOW)    + color.colorize(" | ", color. RED)  + color.colorize("|", color.YELLOW),
                     "                                              " + color.colorize("|", color.YELLOW)    + color.colorize(" | ", color. RED)  + color.colorize("|", color.YELLOW),
                     "    Main Commands:                            " + color.colorize("|", color.YELLOW)    + color.colorize(" | ", color. RED)  + color.colorize("|", color.YELLOW),

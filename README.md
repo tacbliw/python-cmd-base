@@ -4,10 +4,18 @@ A base for writing python command line programs.
 
 ### Prerequisites
 
-This project requires some 3rd party modules
+Install dependencies
+
 ```python
-python -m pip install pyreadline colorama requests
+pip3 install -r requirements.txt
 ```
 
-### Features
-- Color printing
+Run
+
+```python
+python3 wc.py
+```
+
+Have fun :>
+
+[sample.jpeg](sample.jpeg "sample.jpeg")
